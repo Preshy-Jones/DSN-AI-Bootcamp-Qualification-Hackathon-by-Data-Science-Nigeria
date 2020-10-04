@@ -1,4 +1,4 @@
-#MY PERSONAL FINALSCORE: 0.844439300808408
+# MY PERSONAL FINALSCORE: 0.844439300808408
 
 # DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria
 A Zindi Data science competition to qualify for AI Bootcamp
